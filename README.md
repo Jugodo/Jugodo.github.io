@@ -1,1 +1,2 @@
 # Jugodo.github.io
+/\}\}/
